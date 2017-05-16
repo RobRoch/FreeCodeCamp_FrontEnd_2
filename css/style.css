@@ -1,0 +1,26 @@
+body {
+  font-family: 'Indie Flower', cursive;
+  background-image:url(http://img10.deviantart.net/dc3e/i/2014/231/a/d/background_study___night_sky_by_memento_mori_96-d7vuay0.png);
+}
+.quote {
+  background-color: rgb(240,240,240);
+  border-radius: 20px;
+  box-shadow: 0 0 10px 5px #fff;
+  margin: 150px 0px 50px 0px;
+}
+.title {
+  text-shadow: 2px 2px 2px;
+}
+.quote-text {
+  min-height:140px;
+}
+.btn {
+  min-height:50px;
+  min-width:150px;
+  background-color: rgb(240,240,240);
+  box-shadow: 0 0 5px 3px #fff;
+  text-shadow: 2px 2px 10px;
+}
+.btn:hover {
+  opacity: 0.85;
+}
